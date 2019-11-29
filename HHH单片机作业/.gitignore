@@ -34,7 +34,7 @@
 *.h86
 *.lib
 *.obj
-
+*.OBJ
 *.o
 *.sbr
 
